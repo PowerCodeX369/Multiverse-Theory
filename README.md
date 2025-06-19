@@ -4,8 +4,6 @@
 
 **Author:** Muhammad Daniyal  
 **Date:** June 17, 2025  
-**AI Assistance:** Format & refinement supported by ChatGPT (OpenAI)
-
 ---
 
 ## 📖 Abstract
